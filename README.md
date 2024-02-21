@@ -1,4 +1,4 @@
-# SmsBomber# smsbomb
+# SmsBomber# SmsBomber
 
 use python3
 

@@ -6,7 +6,7 @@ use python3
 ```
 pip install requests
 ```
-# To start with multithreading:
+# To start SmsBomber:
 ```
 python SmsBomber.py
 ```
